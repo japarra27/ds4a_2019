@@ -1,0 +1,28 @@
+# local package
+-e .
+
+# external requirements
+jupyter
+pandas
+pyarrow
+boto3
+sqlalchemy
+tensorflow
+scikit-learn
+scikit-image
+opencv
+bokeh
+seaborn
+plotly
+matplotlib
+dask
+numba
+pep8
+pyodbc
+sympy
+yaml
+pytest
+apache-airflow
+cookiecutter
+pandarallel
+ipython-sql
