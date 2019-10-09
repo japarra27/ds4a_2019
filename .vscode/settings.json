@@ -1,5 +1,6 @@
 {
     "python.pythonPath": "/home/user/miniconda3/envs/ds4a/bin/python",
     "python.linting.pycodestyleEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false
 }
