@@ -330,4 +330,3 @@ ASALocalRun/
 .mfractor/
 datathon/documents/zip/Dataset.zip
 datathon/data/raw/*.gz
-datathon/data/raw/
