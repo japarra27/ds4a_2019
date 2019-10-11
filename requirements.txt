@@ -26,3 +26,5 @@ apache-airflow
 cookiecutter
 pandarallel
 ipython-sql
+pandas-profiling
+beautifulsoup4
